@@ -1,0 +1,17 @@
+1. What does it mean when we say javascript is asynchronous?
+
+2. What are javascript promises?
+
+3. What does it mean when a promise resolves?
+
+4. What does it mean when a promise rejects?
+
+5. Explain the use of .then() on promises
+
+6. 5. Explain the use of .catch() on promises
+
+7. Explain the use of .finally() on promises
+
+8. Explain async functions and how async/await are used.
+
+9. Provide one example of how promises can be used.
